@@ -1,8 +1,9 @@
 {
-  "latest": "1.0.4",
-  "url": "https://raw.githubusercontent.com/eferati/ota-/main/update1.0.4.ino.bin",
-  "notes": "(1.0.2 ajoute mise à jour en ligne) (1.0.3 correction des notification) (1.0.4 correction des notification + modification UI + save)"
+  "latest": "1.0.5",
+  "url": "https://raw.githubusercontent.com/eferati/ota-/main/update1.0.5.ino.bin",
+  "notes": "(1.0.2 ajoute mise à jour en ligne) (1.0.3 correction des notification) (1.0.4 correction des notification + modification UI + save) (1.0.5 update notication securiter sonde T°)"
 }
+
 
 
 
