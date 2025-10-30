@@ -1,6 +1,5 @@
 {
   "latest": "1.0.2",
-  "url": "https://github.com/eferati/ota-/raw/refs/heads/main/update1.0.2.ino.bin",
+  "url": "https://github.com/eferati/ota-/blob/e3789c58865ba56edcbb64616ae3296f2eeadf2f/update1.0.2.ino.bin",
   "notes": "Test mise à jour OTA."
 }
-
