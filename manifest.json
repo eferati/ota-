@@ -1,8 +1,9 @@
 {
-  "latest": "1.0.7",
+  "latest": "1.0.8",
   "url": "https://raw.githubusercontent.com/eferati/ota-/main/update1.0.5.ino.bin",
   "notes": "(1.0.2 ajoute mise à jour en ligne) (1.0.3 correction des notification) (1.0.4 correction des notification + modification UI + save) (1.0.5 update notication securiter sonde T°) (1.0.6 update affichage T° oled) (1.0.7 update web) (1.0.8 update ajoute system lumiére)"
 }
+
 
 
 
